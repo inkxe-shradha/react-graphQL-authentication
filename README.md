@@ -19,7 +19,6 @@ I used maximum latest version Plugin and configure with React, Mongo and Node.js
 - _react-router-dom (Latest)_
 - _graphql and express-graphql (For Backend Support)_
 - _apollo/client (For frontend support)_
--
 
 ## Installation and Prerequisite
 
