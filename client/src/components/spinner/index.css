@@ -1,0 +1,14 @@
+.spinner-div {
+    position: absolute;
+    height: 100%;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #ff440085;
+}
+
+.spinner-div>div {
+    height: inherit;
+    align-items: center;
+}
